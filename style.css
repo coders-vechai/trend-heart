@@ -36,7 +36,8 @@
     #pinkboard:before,
     #pinkboard:after {
       content: '';
-      position: absolute;
+/*       position: absolute; */
+      position: relative;
       background: #f60b0b;
       width: 100px;
       height: 160px;
